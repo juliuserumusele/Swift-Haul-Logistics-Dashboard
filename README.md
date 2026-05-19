@@ -37,7 +37,7 @@ swifthaul-logistics-dashboard
 | Profit_Margin | Margin on the shipment |
 | Customer_Rating | Rating given by recipient (1–5) |
 
-![Performance Overview](SwiftHaul/SwiftHaul1.png)
+![Performance Overview](SwiftHaul1.png)
 
  Key Findings
 1. Overall Performance
@@ -54,7 +54,7 @@ trend over two years
 • Average delivery to Kano: 7 days vs. the network average of 5
 • This is a structural, localized problem requiring targeted intervention
 
-![Vendor Analytics](SwiftHaul/SwiftHaul2.png)
+![Vendor Analytics](SwiftHaul2.png)
 5. Vendor Performance
 | Vendor | Failure Rate | Avg Delivery Days | Avg Customer Rating |
 
