@@ -114,5 +114,5 @@ team a window to intervene before a delay becomes a lost shipment worth negative
  Author
 Emmanuel Julius
 Data Analyst · Kano, Nigeria
-[LinkedIn](https://linkedin.com/in/emmanuel-julius-b13613378) · [X / Twitter](https://x.com/Cruxoferudition)--
-*This is a portfolio project using a fictional dataset created for analytical practice.
+[LinkedIn](https://linkedin.com/in/emmanuel-julius-b13613378) · [X / Twitter](https://x.com/Cruxoferudition)
+This is a portfolio project using a fictional dataset created for analytical practice.
